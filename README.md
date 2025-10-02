@@ -1,1 +1,41 @@
-https://camo.githubusercontent.com/2b69c4d10b28ce2a3d06a3f50ddb4a5d72bbea67e24270f7424480b798b0a08b/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f646526666f6e742d73697a653d3930302670617573653d3130303026636f6c6f723d3134433646422663656e7465723d74727565267643656e7465723d747275652677696474683d343335266c696e65733d57656c636f6d652b746f2b6d792b4769744875622b70726f66696c65213b5b436f64652b536d61727465725d3b2b5b4275696c642b4265747465725d3b2b5b496e6e6f766174652b4661737465725d3b
+# Hi 👋, I'm Daniel Adeoluwa Ademoye
+
+🚀 Future **Protector of the Digitalverse** | **Software Engineer** & **Cybersecurity Specialist** | From 🇳🇬 Nigeria  
+
+---
+
+### 👨‍💻 About Me  
+- 🔭 Currently building: **Operating System, Programming Language, Cryptographic System, APIs, and more**  
+- 🌱 Learning path: **Python, C, C++, Backend Development, and Systems Programming**  
+- 👯 I love collaborating on: **AI-driven apps, open-source projects, and security-focused tools**  
+- 💡 Exploring: **LLMs, OS development, interpreters, and physics simulations**  
+- 🎯 Goal: To contribute to **open-source internships** like MLH, Outreachy, and GSoC by Year 1  
+- ⚡ Fun fact: I connect math, physics, and code to build *crazy-level* projects  
+
+---
+
+### 🛠️ Current Projects  
+- 🧮 **VecPy** – A Python library for vector operations & math utilities  
+- 🧩 **CS Sandbox** – Experimental repo for algorithms, ciphers, and inventory systems  
+- 🖥️ **OS & Programming Language Dev** – Inspired by *Crafting Interpreters* and *Operating Systems: Three Easy Pieces*  
+- 🔐 **Crypto Experiments** – Exploring hashing, encryption, and secure systems  
+
+---
+
+### 📚 My 1-Year Roadmap  
+1. Build my **own Programming Language & VM**  
+2. Develop a **mini Operating System**  
+3. Create a **cryptographic system** from scratch  
+4. Design my **own API**  
+5. Experiment with an **LLM prototype**  
+6. Physics-based **simulation engine**  
+
+---
+
+### 📫 Connect with me  
+- GitHub: [Daniel Adeoluwa Ademoye](https://github.com/Ade20boss)  
+- LinkedIn: www.linkedin.com/in/daniel-ademoye-947153379
+
+---
+
+⭐ From [Daniel Adeoluwa Ademoye ](https://github.com/Ade20boss)  
