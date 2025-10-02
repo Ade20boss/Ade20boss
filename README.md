@@ -13,7 +13,7 @@
 - 👯 I love collaborating on: **AI-driven apps, open-source projects, and security-focused tools**  
 - 💡 Exploring: **LLMs, OS development, interpreters, and physics simulations**  
 - 🎯 Goal: To contribute to **open-source internships** like MLH, Outreachy, and GSoC by Year 1  
-- ⚡ Fun fact: I connect math, physics, and code to build *crazy-level* projects  
+- ⚡ Fun fact: I connect math, physics, and code and sometimes i might be an overachiever😂😂
 
 ---
 
