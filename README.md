@@ -3,7 +3,7 @@
 
 # Hi 👋, I'm Daniel Adeoluwa Ademoye
 
-🚀 Future **Protector of the Digitalverse** | **Software Engineer** & **Cybersecurity Specialist** | From 🇳🇬 Nigeria  
+🚀**Self-studying math and cs** | **Aspriring Software Engineer** & **Cybersecurity Specialist** | From 🇳🇬 Nigeria  
 
 ---
 
