@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hello%2C+I'm+Daniel+Adeoluwa;Aspiring+Software+Engineer;Protector+of+the+Digitalverse;Building+OS+%26+Programming+Languages)](https://git.io/typing-svg)
+
 # Hi 👋, I'm Daniel Adeoluwa Ademoye
 
 🚀 Future **Protector of the Digitalverse** | **Software Engineer** & **Cybersecurity Specialist** | From 🇳🇬 Nigeria  
