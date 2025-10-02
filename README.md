@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hello%2C+I'm+Daniel+Adeoluwa;Aspiring+Software+Engineer;Protector+of+the+Digitalverse;Building+OS+%26+Programming+Languages)](https://git.io/typing-svg)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" />
 
 # Hi 👋, I'm Daniel Adeoluwa Ademoye
 
