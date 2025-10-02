@@ -1,4 +1,5 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Daniel+Adeoluwa+Ademoye;Protector+of+the+Digitalverse;Aspiring+Software+Engineer;Cybersecurity+Enthusiast;Lifelong+Learner+%26+Innovator)](https://git.io/typing-svg)
+
 
 # Hi 👋, I'm Daniel Adeoluwa Ademoye
 
