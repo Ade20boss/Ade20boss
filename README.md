@@ -37,7 +37,7 @@
 
 ### 📫 Connect with me  
 - GitHub: [Daniel Adeoluwa Ademoye](https://github.com/Ade20boss)  
-- LinkedIn: www.linkedin.com/in/daniel-ademoye-947153379
+- LinkedIn: www.linkedin.com/in/daniel-ademoye-a05a56305
 
 ---
 
