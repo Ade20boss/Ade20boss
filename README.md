@@ -3,7 +3,7 @@
 
 # Hi 👋, I'm Daniel Adeoluwa Ademoye
 
-🚀**Self-studying math and cs** | **Aspriring Software Engineer** & **Cybersecurity Specialist** | From 🇳🇬 Nigeria  
+🚀**Self-studying math and cs** | **Security & Software Engineer** | From 🇳🇬 Nigeria  
 
 ---
 
