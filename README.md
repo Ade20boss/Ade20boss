@@ -28,4 +28,4 @@ C, Python · GCC/Clang, GDB, Valgrind, Make, Git · Linux
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/daniel-ademoye-a05a56305)
+[LinkedIn](www.linkedin.com/in/adeoluwa-ademoye-a05a56305)
