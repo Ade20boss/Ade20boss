@@ -1,31 +1,57 @@
 # Adeoluwa Daniel Ademoye
 
-Systems programmer working in C, from the layer beneath the frameworks — virtual machines, memory allocators, a neural-network engine built from scratch. Third-year physiotherapy student at the University of Lagos; everything here is self-taught, built because I wanted to know how the machine actually works, not because anyone assigned it.
+**Systems Engineer | Computing Researcher | Runtime & ML Infrastructure**
 
-📍 Lagos, Nigeria
+📍 Lagos, Nigeria · [LinkedIn](https://www.linkedin.com/in/adeoluwa-ademoye-a05a56305)
 
-### What I build
+I'm interested in what happens when code meets the machine: how memory is managed, how instructions execute, why performance changes, and how we can build systems that make better use of the hardware they run on.
 
-From-scratch, dependency-free C. I care about how memory is laid out, how bytes move on the wire, and how the machine executes them — so I build the engine rather than import one. Every project below carries a technical README that documents the design decisions and their tradeoffs, not just how to run it.
+My work spans systems programming, runtime architecture, numerical computing, machine-learning infrastructure, and backend engineering. Much of my journey into computer science has been self-directed, driven by curiosity and a habit of turning questions into working software.
 
-### Projects
+### Selected Projects
 
-**[Ghost VM](https://github.com/Ade20boss/ghost-vm)** — A stack-based bytecode virtual machine with its own binary network protocol. A five-kind typed object system, FNV-1a packet integrity, zero-copy parsing off a flexible-array-member wire format, and a strict manual-ownership memory model. Two independent layers — transport and execution — sharing nothing but a wire-format contract. Full design record in the README.
+**[Kestrel](https://github.com/Ade20boss/kestrel)** · `C` · *In Progress*
 
-**[Kestrel](https://github.com/Ade20boss/kestrel)** — A single-header neural-network engine in C. Zero third-party dependencies, arena-backed memory, and zero heap allocation in the forward and training loops. Trains via finite-difference gradient descent today; backpropagation and a SIMD (AVX2 / NEON) backend are the mapped roadmap. The README is an honest design doc — including what isn't built yet.
+A neural-network framework and heterogeneous execution runtime aimed at making advanced ML computation more efficient and accessible on consumer hardware.
 
-**[fsplit](https://github.com/Ade20boss/fsplit)** — A dependency-free file splitter and assembler in C. Chunked 4 KB binary I/O, so it never loads the whole file into memory and handles multi-gigabyte inputs; byte-perfect reassembly; and fault-tolerant deferred cleanup that preserves the parts if a merge fails midway.
+Started with regression, binary classification, and multilayer XOR networks built from first principles. Its engineering foundation includes 64-byte-aligned arena allocation, numerical dtype semantics, multidimensional tensors with strided views, and a hardware-topology abstraction with C11-atomic lifecycle management.
 
-### Currently
+Kestrel's broader architecture brings together automatic differentiation, numerical kernels, CPU/SIMD/GPU backends, memory placement, and workload-aware execution planning.
 
-- Building backpropagation into Kestrel, then taking it to MNIST.
-- Working through CS fundamentals and the mathematics behind ML.
-- Grinding data structures and algorithms in C.
+**[Ghost VM](https://github.com/Ade20boss/ghost-vm)** · `C` · *In Progress*
+
+A stack-based bytecode virtual machine exploring programming-language execution, runtime design, and binary protocols.
+
+Implements an 11-opcode instruction set, tagged object representations, dynamic collections, vector arithmetic, and a custom binary packet format with multi-batch serialization and checksum verification.
+
+The project's scope extends into source-language compilation, bytecode validation, memory management, and optimized instruction dispatch.
+
+**[fsplit](https://github.com/Ade20boss/fsplit)** · `C`
+
+A dependency-free command-line file splitter and assembler.
+
+Processes large files through 4 KB buffered binary I/O, supports byte-perfect reassembly, and preserves source chunks when reassembly fails.
+
+### Engineering & Research
+
+- **CTO, Canopy** — Architect and implement backend services, transactional database workflows, payment integrations, and subscription infrastructure using Python, FastAPI, and PostgreSQL.
+- **Head of Computing Research, Texyn Systems** — Lead research into computational performance, compiler optimization, memory behavior, and workload-specific execution strategies.
+- **Open Source Contributor, Tracer Labs** — Contributed to an LLM-based incident investigation system, including a merged P0 security fix addressing sensitive infrastructure identifiers in model prompts.
+
+### Current Focus
+
+- **Kestrel:** Numerical computing, tensor/storage architecture, and hardware-aware execution.
+- **Computing research:** Compiler behavior, reproducible benchmarking, and performance engineering.
+- **Fundamentals:** Data structures, algorithms, and the mathematics of machine learning.
 
 ### Tools
 
-C, Python · GCC/Clang, GDB, Valgrind, Make, Git · Linux
+**Languages:** C · Python · SQL
 
-### Contact
+**Development:** GCC/Clang · GDB · Valgrind · Make · Git · Linux
 
-[LinkedIn](https://www.linkedin.com/in/adeoluwa-ademoye-a05a56305)
+---
+
+I'm always interested in connecting with engineers and researchers working on systems, compilers, performance engineering, and computational infrastructure.
+
+**[Connect on LinkedIn](https://www.linkedin.com/in/adeoluwa-ademoye-a05a56305)**
