@@ -18,7 +18,7 @@ Started with regression, binary classification, and multilayer XOR networks buil
 
 Kestrel's broader architecture brings together automatic differentiation, numerical kernels, CPU/SIMD/GPU backends, memory placement, and workload-aware execution planning.
 
-**[Ghost VM](https://github.com/Ade20boss/ghost-vm)** · `C` · *In Progress*
+**[Ghost VM](https://github.com/Ade20boss/Ghost_VM)** · `C` · *In Progress*
 
 A stack-based bytecode virtual machine exploring programming-language execution, runtime design, and binary protocols.
 
